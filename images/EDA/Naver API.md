@@ -1,0 +1,5 @@
+![07_naver_movie_api_close](https://github.com/ElaYJ/Study_EDA/assets/153154981/87ed930b-0b00-426c-893f-b4758490cda8)
+![06_molskin_plan](https://github.com/ElaYJ/Study_EDA/assets/153154981/f51f10fb-65dd-418c-9b3a-3d9a00dbdfc2)
+![06_molskin_plan-1](https://github.com/ElaYJ/Study_EDA/assets/153154981/ae4196e0-e909-40c8-8710-5be6e2de5684)
+![06_molskin_plan-1-1](https://github.com/ElaYJ/Study_EDA/assets/153154981/3ad43e11-eece-4fc4-9ff1-dc22adc2861f)
+![06_molskin_plan-1-2](https://github.com/ElaYJ/Study_EDA/assets/153154981/6a706593-789a-409b-a344-13b2b48c2312)
