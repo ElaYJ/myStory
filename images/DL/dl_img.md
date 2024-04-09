@@ -19,3 +19,10 @@
 ![CNN_model](https://github.com/ElaYJ/supplement/assets/153154981/fec28ec8-d6cc-4bac-abe0-fc41d64177c8)
 
 ![DL_1](https://github.com/ElaYJ/supplement/assets/153154981/dd9a7f24-ae07-433a-aa69-504cb9983168)
+![DL_2](https://github.com/ElaYJ/supplement/assets/153154981/2b3d7275-8cd7-461c-8a78-d0c753d8238d)
+![DL_3](https://github.com/ElaYJ/supplement/assets/153154981/287d4e01-4516-43c5-942f-a71700ed985a)
+![DL_4](https://github.com/ElaYJ/supplement/assets/153154981/93fd1f36-e273-4107-b596-d5d84f09aa21)
+![DL_5](https://github.com/ElaYJ/supplement/assets/153154981/db107b49-b0d3-4ad7-97e3-5e75840c693c)
+![DL_6](https://github.com/ElaYJ/supplement/assets/153154981/2a2ea002-64c6-4f0e-a921-eb0ce30829c2)
+![DL_7](https://github.com/ElaYJ/supplement/assets/153154981/7529bc23-7df5-4df5-8f33-b155bb7b0232)
+
