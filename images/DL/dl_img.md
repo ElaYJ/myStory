@@ -25,4 +25,6 @@
 ![DL_5](https://github.com/ElaYJ/supplement/assets/153154981/db107b49-b0d3-4ad7-97e3-5e75840c693c)
 ![DL_6](https://github.com/ElaYJ/supplement/assets/153154981/2a2ea002-64c6-4f0e-a921-eb0ce30829c2)
 ![DL_7](https://github.com/ElaYJ/supplement/assets/153154981/7529bc23-7df5-4df5-8f33-b155bb7b0232)
+![DL_8](https://github.com/ElaYJ/supplement/assets/153154981/1dd2964c-a8c0-4718-8bb8-b7a60a0843aa)
+![DL_ex1_1](https://github.com/ElaYJ/supplement/assets/153154981/2b6597d8-0ee6-4760-9e25-c092f7ed3948)
 
