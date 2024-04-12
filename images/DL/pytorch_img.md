@@ -6,3 +6,4 @@
 ![PyTorch_boston_Reg_model](https://github.com/ElaYJ/supplement/assets/153154981/c8d06c35-0aab-4506-8fb7-6fd62ac504b7)
 ![breast_cancer](https://github.com/ElaYJ/supplement/assets/153154981/404580a9-e0f4-4093-b7c1-a995eb541008)
 
+![plant_leaf_1](https://github.com/ElaYJ/supplement/assets/153154981/d4276a45-db5e-4781-b23b-5f24f2f1178b)
