@@ -28,3 +28,4 @@
 ![DL_8](https://github.com/ElaYJ/supplement/assets/153154981/1dd2964c-a8c0-4718-8bb8-b7a60a0843aa)
 ![DL_ex1_1](https://github.com/ElaYJ/supplement/assets/153154981/2b6597d8-0ee6-4760-9e25-c092f7ed3948)
 
+![autoencoder](https://github.com/ElaYJ/supplement/assets/153154981/1fdf4275-3694-43e2-a359-14eff2cf86c0)
