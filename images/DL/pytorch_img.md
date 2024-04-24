@@ -9,3 +9,4 @@
 ![plant_leaf_1](https://github.com/ElaYJ/supplement/assets/153154981/d4276a45-db5e-4781-b23b-5f24f2f1178b)
 
 <img width="439" alt="torch_cuda" src="https://github.com/ElaYJ/supplement/assets/153154981/cfe08bfb-0fec-40f6-a119-b3a86ccda6d5">
+![image](https://github.com/ElaYJ/supplement/assets/153154981/649c25c2-cadf-4660-a68e-dbbc55f0ae2b)
