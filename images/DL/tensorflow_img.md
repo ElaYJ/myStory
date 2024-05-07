@@ -6,6 +6,7 @@
 <img width="718" alt="convnets-feature-maps" src="https://github.com/ElaYJ/supplement/assets/153154981/2eaf3f94-7843-499c-8197-d921b064fb94">
 ![cnn](https://github.com/ElaYJ/supplement/assets/153154981/ee0d58a0-1136-4768-968d-4a8b628b030e)
 <img width="949" alt="conv2D" src="https://github.com/ElaYJ/supplement/assets/153154981/1fea1d6a-63da-42fb-917d-2a282fceae5d">
+
 ![Maxpool2D](https://github.com/ElaYJ/supplement/assets/153154981/229d6884-1ce0-43a4-aaa9-20dca41715b7)
 ![Flatten](https://github.com/ElaYJ/supplement/assets/153154981/3274dc4f-8363-4fb6-b334-a7710eb33131)
 ![Dense](https://github.com/ElaYJ/supplement/assets/153154981/7a2ddb73-b79f-4c2e-8081-65a4d37e6c4d)
