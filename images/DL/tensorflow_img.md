@@ -12,3 +12,8 @@
 
 ![resnet](https://github.com/ElaYJ/supplement/assets/153154981/11dc5302-b9d1-4d1f-9853-6ba6035dcc03)
 ![skipconnection](https://github.com/ElaYJ/supplement/assets/153154981/cee96561-f882-4a73-bcec-805273c91588)
+
+
+![tf_operator](https://github.com/ElaYJ/supplement/assets/153154981/328d6b04-6ae7-42f2-830f-29f76f32d08f)
+![tf_datatype](https://github.com/ElaYJ/supplement/assets/153154981/f71e8378-59b8-425a-935f-3670dd1fc92c)
+![tf_initialize](https://github.com/ElaYJ/supplement/assets/153154981/659162c9-5f1f-42c1-a979-6a83133fe42d)
