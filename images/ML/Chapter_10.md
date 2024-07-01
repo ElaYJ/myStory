@@ -8,3 +8,6 @@
 ![cosine_sim_fomular](https://github.com/ElaYJ/supplement/assets/153154981/4e111dc5-e2d8-449f-a03d-5893c5b171dd)
 
 ![cosine_sim_metrics](https://github.com/ElaYJ/supplement/assets/153154981/355efe0f-450b-45e8-872b-8ce1bb483d43)
+
+
+![ratings](https://github.com/ElaYJ/supplement/assets/153154981/d602c9f4-3173-4772-b2e0-150fd426f0f7)
